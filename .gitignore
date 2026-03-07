@@ -1,0 +1,15 @@
+.env
+.env.*
+.streamlit/secrets.toml
+
+venv/
+.venv/
+myenv/
+
+__pycache__/
+*.py[cod]
+
+chatbot.db
+chatbot.db-shm
+chatbot.db-wal
+chatbot.db-*
