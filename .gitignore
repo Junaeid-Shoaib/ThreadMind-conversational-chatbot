@@ -13,3 +13,6 @@ chatbot.db
 chatbot.db-shm
 chatbot.db-wal
 chatbot.db-*
+# Ignore FAISS vector store
+faiss_index/
+
